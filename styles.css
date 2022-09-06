@@ -1,0 +1,70 @@
+/* 
+html{
+    background: url("images/bak.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #cccccc;
+} */
+body{
+    /* background-image: url("images/bak.jpg");
+    background-size: fit-content;
+    background-repeat: no-repeat;
+    background-repeat:repeat-y;
+    background-color: #cccccc;
+    box-shadow: 5px 5px 5px grey; */
+    background: url("images/bak.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-color: #cccccc;
+} 
+header  {
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 1px solid black; */
+    width: 80%;
+    text-align: center;
+}
+header h1{
+    /* border:1px solid black; */
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+header h3{
+    margin-bottom: 0px;
+}
+header span{
+    font-size: 20px;
+}
+#oss{
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    line-height: 30px;
+    text-align: center;
+}
+
+#oss h3{
+    font-size: 40px;
+}
+
+.card{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;  
+    border: none;
+    backdrop-filter: blur(5px);
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 20px;
+    text-align: center;
+}
+.card-img-top{
+    border-radius: 50%;
+}
+.table-header{
+    text-align: center;
+    padding : 10px;
+}
