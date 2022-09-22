@@ -1,0 +1,7 @@
+</h3>Olika typer av tal: <h3>
+        <p>1. "Kära brudpar..." (traditionellt)</p>
+            <p>2. "Redan de gamla grekerna..." (nostalgiskt)</p>
+            <p>3. "Kära Alice och Sebastian..." (låter rart)</p>
+            <p>4. "Jag minns när jag..." (handlar om talaren)</p>
+            <p>5. "Jag är ingen talar..." (sitt ner)</p>
+            <p>6. "Smör, 2 liter mjölk, 4 pkt jäst..." (fel lapp)</p>
